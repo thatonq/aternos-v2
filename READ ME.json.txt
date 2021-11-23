@@ -1,0 +1,5 @@
+{
+	"ip":"coolaxolotlsmp.aternos.me:13736",
+	"port": "13736",
+	"name": "caty_gamer"
+}
